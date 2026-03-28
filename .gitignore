@@ -1,0 +1,30 @@
+# Virtual Environment
+backend/venv/
+
+# Dataset (too large)
+dataset/
+
+# Trained models
+*.keras
+*.h5
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+*.npy
+*.pkl
+*.h5
+*.npy
+*.pkl
+*.h5
+*.csv
+*.zip
+*.jpg
+*.png
